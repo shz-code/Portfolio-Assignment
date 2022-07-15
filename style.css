@@ -1,0 +1,193 @@
+body
+{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.flexible
+{
+    display: flex;
+ 
+}
+.half_width
+{
+    width: 50%;
+    margin: 80px 50px 10px 100px;
+    text-align: justify;
+}
+.half_width img
+{
+    width: 70%;
+    margin-left: 50px;
+}
+
+#mission
+{
+    font-size: 2em;
+    border-left: 5px solid rgb(212, 23, 23);
+    padding-left: 10px;
+    
+}
+
+#color
+{
+    color: orange;
+}
+.link
+{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 12px 10px 12px;
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 40px;
+
+   
+    
+}
+#mission2022
+{
+    text-align: center; 
+    font-size: 40px;
+     font-weight:bolder;
+     margin-bottom:0px;
+     margin-top: 0px;
+}
+.one_third_width
+{
+    width: 33%;
+    margin: 80px;
+    text-align: justify;
+    margin-top: 50px;
+
+}
+
+.one_third_width img
+{
+    width:50%;
+}
+#first
+{
+    background-color: rgb(138, 85, 138);
+    padding:30px 20px 30px 20px;
+    border-radius: 10px;
+    margin-right:2px;
+}
+#second
+{
+    background-color: powderblue;
+    padding:30px 20px 30px 20px;
+    border-radius: 10px;
+    margin-right:2px;
+    margin-left: 20px;
+
+}
+#third
+{
+    background-color: violet;
+    padding:30px 20px 30px 20px;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+#develop
+{
+    font-weight: bolder;
+}
+.third_half_width
+{
+    width: 40%;
+  margin: 10px 20px 10px 40px;
+    text-align: justify;
+}
+.third_half_width img
+{
+    width: 80%;
+    padding-left: 80px;
+
+}
+.third_half_width p
+{
+    margin-right: 20px;
+   
+}
+#third_2ndhalf
+{
+    margin-top: 60px;
+    margin-left: 0;
+}
+.left_banner
+{
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size:250px;
+    background-position:left;
+
+}
+.fourth_half_width
+{
+    width: 40%;
+  margin: 10px 20px 10px 40px;
+    text-align: justify;
+}
+.fourth_half_width img
+{
+    width: 80%;
+    padding-left: 130px;
+}
+    
+#fourth_1sthalf
+{
+   margin-left: 110px;
+   margin-top: 30px;
+}
+.right_banner
+{
+    background-image: url("images/shapes/shape-1.png");
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position:right;
+}
+p
+{
+    margin-bottom: 30px;
+}
+footer
+{
+    text-align: center;
+    background-color: black;
+    margin-bottom: 0px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+}
+footer p
+{
+    color: whitesmoke;
+}
+.last
+{
+    width: 50%;
+    padding:10px 30px 10px 40px;
+    text-align: center;
+}
+.last img
+{
+    width: 60%;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.last p
+{
+    width: 50%;
+    text-align: center;
+    margin-left: 200px;
+    text-align: justify;
+}
+#lasth1
+{
+    background-color:skyblue;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+    padding: 10px;
+    font-weight: bolder;
+    font-size: 25px;
+}
